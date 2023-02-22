@@ -1,0 +1,11 @@
+HTTrack3.49-2 launched on Wed, 22 Feb 2023 17:51:08 at http://gamebowl.xyz/minecoins +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/*
+(webhttrack -q -%i -w http://gamebowl.xyz/minecoins -O "/Users/mac/websites/minecoins" -n -%P -N0 -s2 -p7 -D -a -K0 -c4 -%k -A25000 -F "Mozilla/4.5 (compatible; HTTrack 3.0x; Windows 98)" -%F "<!-- Mirrored from %s%s by HTTrack Website Copier/3.x [XR&CO'2014], %s -->" +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -%s -%u )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+
+HTTrack Website Copier/3.49-2 mirror complete in 10 seconds : 10 links scanned, 9 files written (425960 bytes overall) [357825 bytes received at 35782 bytes/sec], 105720 bytes transferred using HTTP compression in 5 files, ratio 30%, 1.2 requests per connection
+(No errors, 0 warnings, 0 messages)
